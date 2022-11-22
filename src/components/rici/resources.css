@@ -1,0 +1,41 @@
+.heading{
+    text-align: center;
+    position: absolute;
+    top: 60px;
+    left: 554px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.findcity1{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+.findcity2{
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+
+.findcity3{
+    /* position: absolute;
+    top: 250px;
+    left: 150px; */
+    margin-left: 150px;
+    margin-top: 350px;
+}
+
+.findcity4{
+    position: absolute;
+    top: 350px;
+    left: 880px;
+}
+
+.searchButton{
+    position: absolute;
+    top: 150px;
+    right: 100px;
+}
+

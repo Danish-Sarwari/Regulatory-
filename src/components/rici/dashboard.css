@@ -1,0 +1,148 @@
+.card1{
+    /* margin-left: 350px; */
+    position: absolute;
+    top: 55px;   
+    left: 130px;
+    width: 800px; 
+    /* height: 800px; */
+}
+
+.card1 img{
+    width: 550px;
+    /* margin-right: 10px; */
+    text-align: center;
+}
+
+.click{
+    text-align: center;
+}
+.content{
+    color: red;
+}
+
+.pic img{
+    width: 150px;
+}
+
+.para{
+    font-size: 10px;
+}
+.Rcontainer{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 349px;
+    height: 1113px;
+    position: absolute;
+    right: 10px;
+    top: 81px;
+}
+
+.R-box-1{
+    background-color: rgb(61, 61, 147);
+    height: 405px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.R-box-1 h2{
+    color: white;
+    text-align: center;
+}
+
+.R-box-1 img{
+    width: 300px;
+    position: relative;
+    left: 30px;
+    top: 5px;
+    border-radius: 10px; ;
+}
+
+.input-search{
+    /* border: 3px solid red; */
+    position: relative;
+    top: 10px;
+}
+
+.input-search label{
+    color: white;
+    font-size: 20px;
+    display: block;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.input-search select{
+    width: 226px;
+    position: relative;
+    left: 20px;
+    height: 29px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.input-search button{
+    position: relative;
+    left: 50px;
+    height: 30px;
+    width: 60px;
+    padding: 3px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.R-Box-2{
+    /* border: 3px solid red; */
+    position: relative;
+    top: 35px;
+    left: 10px;
+    height: 250px;
+}
+
+.R-Box-2 h2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+   
+
+
+.R-Box-3{
+    /* border: 3px solid blue; */
+    height: 70px;
+    position: relative;
+    top: 10px;
+} 
+
+.icon-box-1{
+    /* border: 2px solid red; */
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+.textbox-1{
+    /* border: 2px solid red; */
+    height: 60px;
+    width: 271px;
+    display: inline-block;
+    margin-left: 20px;
+    position: absolute;
+    top: 0px;
+}
+
+.textbox-1 h3{
+    position: relative;
+    top: -12px;
+    /* color: red; */
+}
+.textbox-1 p{
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    top: -30px;
+}

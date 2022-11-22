@@ -1,0 +1,30 @@
+.navi1{
+    border: 3px solid black;
+    background-color: rgb(41, 41, 116);
+    width: 165px;
+    height: 500px;
+    position: fixed;
+    top: 70px;
+    display: inline-block;
+}
+
+.routing{
+    text-decoration: none;
+    height: 40px;
+
+}
+
+.routing b{
+    color: white;
+    margin-left: 5px;
+    margin: 10px;
+}
+
+.routing:hover{
+    border-left: 5px solid green;
+    background-color: rgb(41, 41, 96);
+}
+
+
+
+
